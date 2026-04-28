@@ -52,6 +52,6 @@ git commit -m 'описание'
 ```
 ### добавляем изменения на GitHUb
 ```bash
-git add files
+git push
 ```
 ---
